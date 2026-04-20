@@ -62,12 +62,7 @@ The "smoking gun" of the financial loss lies in supply chain inefficiencies.
 * **Channel Analysis:** Breakdown of Retailer vs. Direct (D2C) sales.
 * **Risk Profile:** Identifying "Out of Stock" vs. "Excess Inventory" scenarios.
 
----
 
-### **How to Use This Repo**
-1. Download the `.pbix` file.
-2. Ensure you have Power BI Desktop installed.
-3. Review the **Data Model** to understand the Snowflake schema relationships.
 
 ---
 
