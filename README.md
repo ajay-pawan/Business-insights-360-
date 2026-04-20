@@ -90,11 +90,9 @@ This raises concerns about **long-term sustainability**
 * Improve performance in **low-margin regions (LATAM & EU)**
 
 ---
-It looks like you’ve done a great job translating the visual data from your "Business Insights 360" dashboard into actionable notes. Your breakdown of the 74 customers and the specific logic for each quadrant is spot on.
 
-Based on the dashboard image and your handwritten notes, here is a refinement of your analysis to make it even more professional and "deck-ready."
 
----
+
 
 ## **Refined Customer Analysis**
 
