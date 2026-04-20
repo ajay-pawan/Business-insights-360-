@@ -166,7 +166,7 @@ Your dashboard shows that **India (25.59%)** and the **USA (19.54%)** are your d
 
 ### **4. The "Net Profit" Crisis**
 You made a very sharp observation: **Only 4 products** are making above the average Net Profit.
-
+ 
 * **The "Discount" Leak:** You noticed that Atliq is spending more on discounts than the growth in Gross Margin can cover.
 * **The -10.67% Benchmark:** When your "top" products are still technically yielding a negative net profit (around -10%), it suggests that your **Operational Expenses (OpEx)**—like warehouse costs, shipping, and headcounts—are scaled for a much larger company than you actually are.
 
