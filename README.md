@@ -90,5 +90,50 @@ This raises concerns about **long-term sustainability**
 * Improve performance in **low-margin regions (LATAM & EU)**
 
 ---
+It looks like you’ve done a great job translating the visual data from your "Business Insights 360" dashboard into actionable notes. Your breakdown of the 74 customers and the specific logic for each quadrant is spot on.
+
+Based on the dashboard image and your handwritten notes, here is a refinement of your analysis to make it even more professional and "deck-ready."
+
+---
+
+## **Refined Customer Analysis**
+
+### **1. Quadrant: Best Customers (High NS, High GM%)**
+* **Current Status:** 15 out of 74 customers. These are your "Strong" performers like **Amazon** and **Atliq Exclusive**.
+* **Refinement:** These customers are driving your **$1,879.72M Gross Margin**.
+* **Strategic Action:** Focus on **Retention and Cross-selling**. Since they already trust the brand and provide high margins, offer them "first-look" at new premium hardware or exclusive loyalty terms to defend this territory from competitors.
+
+### **2. Quadrant: Growth Opportunity (Low NS, High GM%)**
+* **Current Status:** Customers with great profitability but low volume.
+* **Your Note:** "Need more visibility, light, or Ads & promotions."
+* **Refinement:** You are exactly right. Because the **Gross Margin % is already high**, you have "room to play." 
+* **Strategic Action:** You can afford to spend a bit more on **Customer Acquisition Cost (CAC)** here. Use targeted marketing or bundled deals to increase their Net Sales without fearing a margin crash.
+
+### **3. Quadrant: Margin Improvement (High NS, Low GM%)**
+* **Current Status:** Customers like **Leader** ($157.04M NS but only 31.67% GM%).
+* **Your Note:** "Spending more on discounts or high operational costs/COGS."
+* **Refinement:** This is the most critical area for Atliq. These customers drive volume but drain profitability.
+* **Strategic Action:** * **Discount Audit:** Review if "Leader" or similar customers are receiving "legacy" discounts that are no longer sustainable.
+    * **Product Mix:** Shift their purchase profile toward higher-margin accessories rather than just base hardware units.
+
+### **4. Quadrant: At Risk (Low NS, Low GM%)**
+* **Current Status:** Customers failing on both metrics.
+* **Your Note:** "Stop providing or accessing these customers... since they need constant support."
+* **Refinement:** You’ve identified a key truth: **Cost to Serve.** If a customer has low sales and low margin but requires high tech support or logistics effort, they are actually costing you money.
+* **Strategic Action:** Implement a **"Minimum Order Value" (MOV)** or transition them to a distributor-led model rather than a direct-sales model to save on operational expenses.
+
+---
+
+## **Profitability Analysis (The "Red Flag")**
+Your note about the **-11% to -12% Net Profit** drop is the most important observation. 
+
+
+* **Operational Expenses** have jumped by **+157.86%**.
+* **Net Profit %** is down **-157.19%** (sitting at **-11.64%**).
+
+\ Even though Net Sales grew by **303%**, your costs (Ads, Promotions, Placement fees) grew faster. Atliq are essentially "buying" sales at a loss.
+
+**Recommendation:** To move more customers into the "Strong" quadrant, Atliq must **cap promotional spending**. The goal shouldn't just be higher sales (NS), but **Sustainable Sales.** You need to optimize those $2,457.90M in Operational Expenses immediately to bring that Net Profit back into the green.
+
 
 
