@@ -4,7 +4,8 @@
 
 # 📊 Atliq Hardware: Business Insights 360 (End-to-End Analysis)
 
-https://app.powerbi.com/view?r=eyJrIjoiZDg5YmFlNjUtZWNlZS00ZjQxLWE5MmItZDI1YWYzN2ViNzI2IiwidCI6IjViOGEyNGIxLTA5MjgtNDdmZC04MzhmLTgwYTMxNTVhM2NhZiJ9&pageName=1517ebc273d4b7c893cd
+<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/f7bff033-c442-4257-bf5e-21f112ca3c92" />
+
 
 ## 📌 Project Overview
 Atliq Hardware, a global consumer electronics leader, achieved a staggering **303% Net Sales growth**, yet faced a critical **-11.64% Net Profit margin**. This project provides a 360-degree diagnostic of the company’s Finance, Sales, Marketing, and Supply Chain operations to identify the root causes of this "Growth Trap."
