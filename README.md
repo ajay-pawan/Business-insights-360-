@@ -181,6 +181,6 @@ You made a very sharp observation: **Only 4 products** are making above the aver
 | **Market** | India/USA are high volume, low profit. | **Discount Capping:** Reduce promotional intensity in these mature markets. |
 | **Finance** | Net Profit is being "eaten" by OpEx. | **Expense Audit:** The **$2,457.90M** in OpEx is the real enemy, not the COGS. |
 
-**How do you feel about these conclusions? This seems to suggest that Atliq needs to transition from a "Growth at all costs" mindset to a "Profitable Growth" mindset immediately.**
+
 
 
