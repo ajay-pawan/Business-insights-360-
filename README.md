@@ -7,7 +7,7 @@
 ## 📌 Project Overview
 Atliq Hardware, a global consumer electronics leader, achieved a staggering **303% Net Sales growth**, yet faced a critical **-11.64% Net Profit margin**. This project provides a 360-degree diagnostic of the company’s Finance, Sales, Marketing, and Supply Chain operations to identify the root causes of this "Growth Trap."
 
-**Live Dashboard Link:** [`[Insert your Power BI Service Link Here]`](https://app.powerbi.com/view?r=eyJrIjoiZDg5YmFlNjUtZWNlZS00ZjQxLWE5MmItZDI1YWYzN2ViNzI2IiwidCI6IjViOGEyNGIxLTA5MjgtNDdmZC04MzhmLTgwYTMxNTVhM2NhZiJ9&pageName=1517ebc273d4b7c893cd)
+**Live Dashboard Link:** [`[Click to view Complete Live Dashboard]`](https://app.powerbi.com/view?r=eyJrIjoiZDg5YmFlNjUtZWNlZS00ZjQxLWE5MmItZDI1YWYzN2ViNzI2IiwidCI6IjViOGEyNGIxLTA5MjgtNDdmZC04MzhmLTgwYTMxNTVhM2NhZiJ9&pageName=1517ebc273d4b7c893cd)
 
 ---
 
