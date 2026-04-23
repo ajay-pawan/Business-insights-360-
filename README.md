@@ -2,7 +2,7 @@
 
 
 
-# 📊 Atliq Hardware: Business Insights 360 (End-to-End Analysis) 
+# 📊 Atliq Hardware: Business Insights 360 (End-to-End Analysis)
 
 <img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/f7bff033-c442-4257-bf5e-21f112ca3c92" />
 
